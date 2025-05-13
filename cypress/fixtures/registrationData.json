@@ -1,0 +1,9 @@
+{
+  "username": "adeline99884",
+  "email": "grover_harris9@yahoo.com",
+  "password": "regietest",
+  "confirmPassword": "regietest",
+  "role": "quiz_master",
+  "roleId": "role-quiz-master",
+  "expectedRedirect": "/manage-topics"
+}
